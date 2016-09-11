@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/okhttp-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/qiniu-java-sdk-7.1.3.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_101/src.zip">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/新建文件夹/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/新建文件夹/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/新建文件夹/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/juemuren/Desktop/所需jar包/okio-1.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
